@@ -1535,4 +1535,4 @@
 - [CircleRangeView](https://github.com/WangGanxin/CircleRangeView) ★22 - 自定义圆形仪表盘View 
 - [HoverView](https://github.com/fashare2015/HoverView) ★19 - 仿知乎的底部抽屉 
 - [VerificationCodeView](https://github.com/yongming9011/VerificationCodeView) ★16 - Android简单的验证码控件 
-- [LetterView](https://github.com/dengzq/LetterView) ★11 - 选中字母完成单词 
+- [LetterView](https://github.com/dengzq/LetterView) ★11 - 选中字母完成单词
